@@ -3,3 +3,4 @@ opencv-python==4.10.0.84
 packaging==24.1
 pillow==10.4.0
 pytesseract==0.3.10
+regex==2024.7.24
